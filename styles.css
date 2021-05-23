@@ -1,0 +1,13 @@
+html {
+	scroll-behavior: smooth;
+}
+
+body,
+p {
+	background-color: rgb(236, 160, 160);
+}
+
+.photo {
+  width:1275px;
+  height:1650px;
+}  
